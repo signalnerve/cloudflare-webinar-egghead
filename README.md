@@ -1,3 +1,5 @@
+**Forked from [https://github.com/whoisryosuke/next-mdx-deck] to use as a template**
+
 ![Presentation Mode](./screenshots/next-mdx-deck-example.gif)
 
 # Next MDX Deck
